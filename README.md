@@ -5,8 +5,8 @@
 
 ## **Variable Construction and Data Logic**
 ### The raw dataset contains county-level demographic and confinement metrics over several decades. To prepare the data for statistical modeling, the following variables were constructed:
-### - Item 1 **Temporal Window (year):** Filtered specifically to the years 1990 through 2015 to focus on the peak and subsequent decline of modern U.S. mass incarceration
-### - Item 2 **Normalized Incarceration Rate (rate_per_100k):** Relying on raw prison population counts over time introduces a significant confound due to general population growth. To control for this, a normalized was constructed:
+* **Temporal Window (year):** Filtered specifically to the years 1990 through 2015 to focus on the peak and subsequent decline of modern U.S. mass incarceration
+* **Normalized Incarceration Rate (rate_per_100k):** Relying on raw prison population counts over time introduces a significant confound due to general population growth. To control for this, a normalized was constructed:
 
 <img width="554" height="80" alt="Screenshot 2026-05-06 at 20 31 32" src="https://github.com/user-attachments/assets/b7556387-6597-433e-8987-6abbb793f9e2" />
 

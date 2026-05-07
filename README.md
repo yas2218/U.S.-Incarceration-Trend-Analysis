@@ -34,7 +34,7 @@
 ### 2. Linear Regression Model
 ### A simple linear regression was conducted to model the overall trajectory of the normalized incarceration rate over time ("year" acting as the independent variable).
 ### Module Formula:
-$$\text{rate\_per\_100k} = \beta_0 + \beta_1(\text{year})$$
+<img width="286" height="47" alt="Screenshot 2026-05-06 at 20 40 09" src="https://github.com/user-attachments/assets/3d40a942-4228-453d-a452-e73cddcba316" />
 ### R Console Output:
 <img width="568" height="325" alt="Screenshot 2026-05-06 at 20 06 39" src="https://github.com/user-attachments/assets/b532a76b-3a0e-40e5-bc3f-23f64ad2a35e" />
 
